@@ -18,8 +18,7 @@ This repository models the spread of influenza using a multi-species SIRV framew
 sirv-influenza-model/
 ├── data/                       # Output CSV files
 ├── images/                     # Simulation plots 
-├── src/
-│   └── model.py                # Main simulation logic
+├── model.py   
 ├── README.md                   # This file
 ├── requirements.txt            # Dependencies
 └── LICENSE                     # Project license 
