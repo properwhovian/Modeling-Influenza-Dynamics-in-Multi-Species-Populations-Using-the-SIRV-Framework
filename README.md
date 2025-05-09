@@ -59,8 +59,8 @@ The model will display plots and save the results to `data/sirv_influenza_all_sp
 
 ##  References
 
-* Biggerstaff et al. (2014), \emph{BMC Infectious Diseases}, 14(1):480
-* Lessler et al. (2009), \emph{Lancet Infectious Diseases}, 9(5):291–300
+* Biggerstaff et al. (2014), {BMC Infectious Diseases}, 14(1):480
+* Lessler et al. (2009), {Lancet Infectious Diseases}, 9(5):291–300
 
 ## License
 
