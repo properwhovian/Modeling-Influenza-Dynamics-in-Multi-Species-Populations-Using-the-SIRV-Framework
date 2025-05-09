@@ -49,9 +49,9 @@ The model will display plots and save the results to `data/sirv_influenza_all_sp
 
 ##  Data Sources
 
-* **Humans**: CDC FluView 2024–2025 [CDC](https://www.cdc.gov/flu/weekly/index.htm)$
-* **Mallard Ducks**: USFWS Waterfowl Reports [FWS](https://www.fws.gov/media/2024-waterfowl-population-status-report)$
-* **Pigs**: USDA Quarterly Hogs and Pigs [USDA](https://downloads.usda.library.cornell.edu)$
+* **Humans**: CDC FluView 2024–2025 [CDC](https://www.cdc.gov/flu/weekly/index.htm)
+* **Mallard Ducks**: USFWS Waterfowl Reports [FWS](https://www.fws.gov/media/2024-waterfowl-population-status-report)
+* **Pigs**: USDA Quarterly Hogs and Pigs [USDA](https://downloads.usda.library.cornell.edu)
 * **Vaccination Data**:
 
   * CDC flu coverage
