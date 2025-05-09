@@ -6,27 +6,26 @@ This repository models the spread of influenza using a multi-species SIRV framew
 * 🦆 Mallard Ducks
 * 🐖 Yorkshire Pigs
 
-## 📈 Features
+##  Features
 
 * Differential equation-based modeling with species-specific vaccination
 * Graphical outputs and CSV export
 * Modular code for easy extension and testing
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 sirv-influenza-model/
 ├── data/                       # Output CSV files
-├── images/                     # Simulation plots (optional)
+├── images/                     # Simulation plots 
 ├── src/
 │   └── model.py                # Main simulation logic
-├── notebooks/                  # Jupyter demos (optional)
 ├── README.md                   # This file
 ├── requirements.txt            # Dependencies
-└── LICENSE                     # Project license (optional)
+└── LICENSE                     # Project license 
 ```
 
-## 🧪 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -49,7 +48,7 @@ python src/model.py
 
 The model will display plots and save the results to `data/sirv_influenza_all_species.csv`.
 
-## 📊 Data Sources
+##  Data Sources
 
 * **Humans**: CDC FluView 2024–2025 $[CDC](https://www.cdc.gov/flu/weekly/index.htm)$
 * **Mallard Ducks**: USFWS Waterfowl Reports $[FWS](https://www.fws.gov/media/2024-waterfowl-population-status-report)$
@@ -59,12 +58,12 @@ The model will display plots and save the results to `data/sirv_influenza_all_sp
   * CDC flu coverage
   * Ducks Unlimited and USDA APHIS
 
-## 📚 References
+##  References
 
 * Biggerstaff et al. (2014), \emph{BMC Infectious Diseases}, 14(1):480
 * Lessler et al. (2009), \emph{Lancet Infectious Diseases}, 9(5):291–300
 
-## 📃 License
+## License
 
 MIT License (or other appropriate license)
 
